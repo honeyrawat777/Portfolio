@@ -1,0 +1,9 @@
+@import "tailwindcss";
+body{
+
+    background-color: rgba(24, 21, 21, 0.982);
+    width: 100%;
+}
+.slider{
+    background-color: rgb(18, 18, 18);
+}
